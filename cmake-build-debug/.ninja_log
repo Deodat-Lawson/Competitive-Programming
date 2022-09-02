@@ -1,0 +1,8 @@
+# ninja log v5
+1	46	1662158126992113016	CMakeFiles/Competitive-Programming.dir/test2.c.o	abdb427483dccc84
+47	91	1662158127055113682	Competitive-Programming	57faf10b4a7783b
+4	115	1662158329234250372	build.ninja	70eb925361f9389c
+0	95	1662158329349251588	CMakeFiles/Competitive-Programming.dir/template_debug.c.o	98553789936e0880
+96	126	1662158329416252295	Competitive-Programming	c7f82679b92e315b
+1	66	1662158446625490998	CMakeFiles/Competitive-Programming.dir/template_debug.c.o	98553789936e0880
+67	145	1662158446711491907	Competitive-Programming	c7f82679b92e315b
